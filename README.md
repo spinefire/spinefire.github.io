@@ -1,2 +1,0 @@
-# spinefire.github.io
-myblog
