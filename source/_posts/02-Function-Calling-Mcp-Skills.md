@@ -126,10 +126,7 @@ version: 1.0.0
 	4. 任务结束，清空该skill占用的token空间
 - mcp vs skill
 ![diagram](../assets/pasted-image-20260309195619.png)
-
-
-
-
-
-
 ----
+
+ ## 参考资料
+ https://github.com/agent-for-dummys/Agent-For-Dummies

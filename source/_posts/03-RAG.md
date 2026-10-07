@@ -124,3 +124,7 @@ RAG幻觉可能出现在每个阶段
 
 ##### 5.海盗算法
 攻击者不断向一个**RAG（Retrieval-Augmented Generation）系统**提交精心构造的查询；每次查询都基于“锚点”（anchors，代表已知/已抓取到的有价值片段）构建，并附上**注入命令**（injection command）诱导语言模型泄露被检索到的知识片段。算法用**嵌入相似度**来去重、判断锚点重要性，并迭代扩展新的锚点，直到“相关性（relevance）”降到阈值以下为止。
+
+
+ ## 参考资料
+ https://github.com/agent-for-dummys/Agent-For-Dummies
